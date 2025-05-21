@@ -1,4 +1,4 @@
-# Uday's_blog
+# UdaysBlog
 
 Here’s what I’ll mostly write about:
 	•	Life experiences and lessons learned
