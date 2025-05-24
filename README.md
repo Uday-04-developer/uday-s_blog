@@ -5,3 +5,4 @@ Here’s what I’ll mostly write about:
 	•	Tech & development updates or tutorials
 	•	Creative ideas I’m exploring
 	•	My thoughts on personal growth, motivation, and productivity
+ I will make an update on daily basis.  
